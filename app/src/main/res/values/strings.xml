@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flashcard_App</string>
+    <string name="who_is_this_assignment_for">Who is this assignment for?</string>
+    <string name="code_path">Code Path!</string>
+</resources>
